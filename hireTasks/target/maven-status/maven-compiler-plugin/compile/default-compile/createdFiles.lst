@@ -1,0 +1,10 @@
+hireTasks\hireTasksApp.class
+hireTasks\ReadController.class
+data\Person.class
+hireTasks\line\FinishLineDeliveryDao.class
+sample\CodeCollection.class
+hireTasks\line\FinishLineDeliveryService.class
+data\Point.class
+hireTasks\WebConfig.class
+hireTasks\line\FinishLineDeliveryEntity.class
+hireTasks\line\IFinishLineDeliveryService.class
